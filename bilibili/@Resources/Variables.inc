@@ -1,0 +1,9 @@
+[Variables]
+mid=514276391
+upName=ÔÒÆßÔÒ°ËÑÐ¾¿Ëù
+fans=378
+updateTime=20
+fontColor=248,192,205
+roleBg=33.png
+isShowOption=1
+isFixDetail=0
